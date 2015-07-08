@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">DemoWIdget</string>
-    <string name="title_activity_wear">WearActivity</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_incoming_call">IncomingCallActivity</string>
-</resources>
